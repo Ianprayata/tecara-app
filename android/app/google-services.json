@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "103438063856",
+    "firebase_url": "https://tecara-app-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "tecara-app",
+    "storage_bucket": "tecara-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103438063856:android:3bbba06227ad1e45290a35",
+        "android_client_info": {
+          "package_name": "com.example.tecara_opsi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8sGocHO1EIsE4nYPyqFkJLHWSzCgPFw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
