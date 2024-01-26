@@ -1,16 +1,10 @@
 # tecara_opsi
 
-A new Flutter project.
+Greetings, everyone!
+Before you further read upon my code, I would like to introduce you to this project.
+This project is a prototype for a mental-health consultation application. It uses a realtime database with firebase as well as using flutter as its main framework.
+The features of this project consists of: Login, Sign In with Email, Sign In with Phone Number, Realtime Chat, Anonymous feature, Journaling, Community Chat, as well as Education section!
+Below I attach my tecara-app design in figma. Hope you guys like it. If you're interested in this project, don't bother contact me! Thanks.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Design
+https://www.figma.com/proto/NuxAae7dsiZcMJivv8DKB7/TeCara-App?type=design&node-id=380-79&t=gmic8w0h0MDbXCjp-1&scaling=min-zoom&page-id=27%3A216&starting-point-node-id=380%3A75&mode=design
